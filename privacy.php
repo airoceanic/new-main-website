@@ -1,47 +1,184 @@
 <?php
 $MetaPageTitle = "Privacy Policy";
-$MetaPageDescription = "";
-$MetaPageKeywords = "";
+$MetaPageDescription = "Air Oceanic Privacy Policy";
+$MetaPageKeywords = "privacy policy, air oceanic, data protection";
 ?>
+
 <?php
 include 'lib/functions.php';
 include 'config.php';
 session_start();
 ?>
+
 <?php include 'includes/header.php'; ?>
+
 <section id="content" class="cp section offset-header">
-	<div class="container">
-		<div class="row">
-			<div class="jumbotron">
-				<h1 class="text-center">Privacy Policy</h1>
-				Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-				laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-				architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-				aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-				voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
-				consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et
-				dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum
-				exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
-				consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil
-				molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-				<br /><br />
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-				labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-				laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-				voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-				cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-				We have a saying here, fly quality over quantity. <br /><br />
-				Ut dignissim condimentum erat sit amet pellentesque. Aenean lacus mi, lobortis et sem
-				interdum, ultrices tincidunt felis. Praesent lacinia cursus arcu, id ultricies leo viverra
-				in. Phasellus rutrum nibh eu mollis dapibus. Aenean auctor quam lorem, a pulvinar odio
-				finibus ut. Vivamus commodo pulvinar quam, vel porta lorem vestibulum ut. Proin arcu lorem,
-				volutpat id justo et, venenatis ullamcorper tellus. Vivamus fringilla dolor quis urna
-				tristique aliquet. Praesent a tortor dignissim, molestie eros non, porta enim. Nullam at
-				mattis neque. Nunc ut tellus sit amet justo feugiat condimentum quis dapibus mauris.
-				Praesent nulla metus, posuere nec mollis quis, semper eu odio. Proin eget nisi suscipit,
-				dignissim risus et, tincidunt nulla.
-			</div>
-		</div>
-	</div>
+    <div class="container">
+        <div class="row">
+            <div class="jumbotron">
+                <h1 class="text-center">Air Oceanic Privacy Policy</h1>
+
+                <p>
+                    <strong>Version:</strong> 1.0<br>
+                    <strong>Effective Date:</strong> 01/01/2026
+                </p>
+
+                <h3>1. Introduction</h3>
+                <p>
+                    Air Oceanic is committed to protecting the privacy and security of its members and community participants.
+                </p>
+                <p>
+                    This Privacy Policy explains how Air Oceanic collects, stores, uses, and protects information provided through its services, including but not limited to:
+                </p>
+                <ul>
+                    <li>Discord servers</li>
+                    <li>Website platforms</li>
+                    <li>Flight tracking systems</li>
+                    <li>Training systems</li>
+                    <li>Event systems</li>
+                    <li>Third-party integrations</li>
+                </ul>
+                <p>
+                    By using Air Oceanic services, you agree to this Privacy Policy.
+                </p>
+
+                <h3>2. Information We Collect</h3>
+
+                <h4>2.1 Information Provided by Members</h4>
+                <p>We may collect:</p>
+                <ul>
+                    <li>Discord usernames and IDs</li>
+                    <li>VATSIM CID and related public profile information</li>
+                    <li>Email addresses</li>
+                    <li>Flight activity and statistics</li>
+                    <li>Training records and certifications</li>
+                    <li>Submitted applications or support requests</li>
+                </ul>
+
+                <h4>2.2 Automatically Collected Information</h4>
+                <p>We may automatically collect:</p>
+                <ul>
+                    <li>Website usage information</li>
+                    <li>IP addresses</li>
+                    <li>Browser and device information</li>
+                    <li>Login timestamps</li>
+                    <li>System logs and moderation records</li>
+                </ul>
+
+                <h3>3. How We Use Information</h3>
+                <p>Information collected may be used for:</p>
+                <ul>
+                    <li>Managing membership and pilot operations</li>
+                    <li>Verifying eligibility and certifications</li>
+                    <li>Operating virtual airline systems</li>
+                    <li>Communication and announcements</li>
+                    <li>Event management</li>
+                    <li>Moderation and enforcement of policies</li>
+                    <li>Security and fraud prevention</li>
+                    <li>Improving Air Oceanic services</li>
+                </ul>
+
+                <h3>4. Data Sharing</h3>
+                <p>
+                    Air Oceanic does not sell personal information.
+                </p>
+                <p>Information may only be shared:</p>
+                <ul>
+                    <li>With authorised staff members for operational purposes</li>
+                    <li>When required by law</li>
+                    <li>To protect the safety, security, or integrity of Air Oceanic systems</li>
+                    <li>Through third-party services necessary for operations (such as Discord, VATSIM, Newsky, or Navigraph)</li>
+                </ul>
+                <p>
+                    Air Oceanic is not responsible for the privacy practices of third-party services.
+                </p>
+
+                <h3>5. Data Storage &amp; Security</h3>
+                <p>
+                    Air Oceanic takes reasonable steps to protect member information from unauthorised access, misuse, or disclosure.
+                </p>
+                <p>
+                    However, no online platform or electronic storage system can be guaranteed as completely secure.
+                </p>
+                <p>
+                    Members are responsible for maintaining the security of their own accounts and passwords.
+                </p>
+
+                <h3>6. Data Retention</h3>
+                <p>Information may be retained:</p>
+                <ul>
+                    <li>While a member remains active</li>
+                    <li>For moderation or legal purposes</li>
+                    <li>For operational history and statistics</li>
+                    <li>As required by applicable laws or regulations</li>
+                </ul>
+                <p>
+                    Air Oceanic may delete inactive member data at its discretion.
+                </p>
+
+                <h3>7. Member Rights</h3>
+                <p>
+                    Where applicable under relevant privacy laws, members may request:
+                </p>
+                <ul>
+                    <li>Access to their stored data</li>
+                    <li>Correction of inaccurate information</li>
+                    <li>Deletion of personal information</li>
+                    <li>Withdrawal of consent for certain processing activities</li>
+                </ul>
+                <p>
+                    Requests may be submitted through official Air Oceanic communication channels.
+                </p>
+
+                <h3>8. Children's Privacy</h3>
+                <p>
+                    Members must be at least 13 years of age to participate in Air Oceanic.
+                </p>
+                <p>
+                    Air Oceanic does not knowingly collect information from individuals under the minimum required age.
+                </p>
+
+                <h3>9. GDPR &amp; International Privacy Compliance</h3>
+                <p>
+                    Air Oceanic aims to handle personal information in a manner consistent with internationally recognised privacy standards, including principles established under the General Data Protection Regulation (GDPR).
+                </p>
+                <p>Where applicable, members may request:</p>
+                <ul>
+                    <li>Access to personal data held by Air Oceanic</li>
+                    <li>Correction of inaccurate data</li>
+                    <li>Deletion of personal data</li>
+                    <li>Restriction of certain processing activities</li>
+                    <li>Withdrawal of consent where processing is consent-based</li>
+                </ul>
+
+                <p>Air Oceanic will take reasonable steps to:</p>
+                <ul>
+                    <li>Minimise unnecessary data collection</li>
+                    <li>Store information securely</li>
+                    <li>Limit access to authorised personnel only</li>
+                    <li>Maintain transparency regarding data usage</li>
+                </ul>
+
+                <p>
+                    Members may contact Air Oceanic regarding privacy concerns or requests through official communication channels.
+                </p>
+
+                <h3>10. Amendments</h3>
+                <p>
+                    This Privacy Policy may be updated at any time.
+                </p>
+                <p>
+                    Continued use of Air Oceanic services after changes are published constitutes acceptance of the updated policy.
+                </p>
+
+                <h3>11. Contact</h3>
+                <p>
+                    Questions regarding this Privacy Policy may be directed through official Air Oceanic communication platforms.
+                </p>
+
+            </div>
+        </div>
+    </div>
 </section>
-<?php include 'includes/footer.php';
+
+<?php include 'includes/footer.php'; ?>
