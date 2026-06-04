@@ -1,7 +1,7 @@
 <?php
-$MetaPageTitle = "";
-$MetaPageDescription = "";
-$MetaPageKeywords = "";
+$MetaPageTitle = "About Us";
+$MetaPageDescription = "Learn more about Air Oceanic, a virtual airline connecting Australia, New Zealand, and the South Pacific through realistic flight simulation.";
+$MetaPageKeywords = "Air Oceanic, virtual airline, flight simulation, Microsoft Flight Simulator, X-Plane, Australia, New Zealand, South Pacific";
 ?>
 <?php
 include 'lib/functions.php';
@@ -14,36 +14,53 @@ session_start();
         <div class="row">
             <div class="jumbotron">
                 <h1 class="text-center">About Us</h1>
-                <img src="<?php echo website_base_url; ?>images/about-img.png" style="float:right; padding:15px;"
+
+                <img src="<?php echo website_base_url; ?>images/about-img.png"
+                    style="float:right; padding:15px;"
                     class="img-circle" />
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-                architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-                aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-                voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
-                consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et
-                dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum
-                exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
-                consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil
-                molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-                <br /><br />
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                We have a saying here, fly quality over quantity. <br /><br />
-                Ut dignissim condimentum erat sit amet pellentesque. Aenean lacus mi, lobortis et sem
-                interdum, ultrices tincidunt felis. Praesent lacinia cursus arcu, id ultricies leo viverra
-                in. Phasellus rutrum nibh eu mollis dapibus. Aenean auctor quam lorem, a pulvinar odio
-                finibus ut. Vivamus commodo pulvinar quam, vel porta lorem vestibulum ut. Proin arcu lorem,
-                volutpat id justo et, venenatis ullamcorper tellus. Vivamus fringilla dolor quis urna
-                tristique aliquet. Praesent a tortor dignissim, molestie eros non, porta enim. Nullam at
-                mattis neque. Nunc ut tellus sit amet justo feugiat condimentum quis dapibus mauris.
-                Praesent nulla metus, posuere nec mollis quis, semper eu odio. Proin eget nisi suscipit,
-                dignissim risus et, tincidunt nulla.
+
+                <p>
+                    At Air Oceanic, we are a leading virtual airline dedicated to simulating reliable and
+                    efficient air services across East Coast Australia, New Zealand, and the greater South
+                    Pacific. Operating on platforms like Microsoft Flight Simulator and X-Plane, we bring
+                    the thrill of aviation to your screen with a strong focus on realism, safety, and
+                    service excellence. Whether you're a seasoned virtual pilot or just beginning your
+                    journey, we're committed to keeping the virtual skies open, immersive, and accessible
+                    to all.
+                </p>
+
+                <p>
+                    Built around a passion for aviation and attention to operational detail, Air Oceanic
+                    offers a structured yet enjoyable environment for virtual pilots of all experience
+                    levels. Our operations mirror real-world airline procedures, including realistic
+                    routes, flight planning, and professional pilot standards, while still maintaining a
+                    friendly and supportive community.
+                </p>
+
+                <p>
+                    We operate a growing network of domestic and regional routes, connecting major hubs and
+                    smaller regional airports throughout Australia, New Zealand, and the South Pacific
+                    islands. This allows our pilots to experience a wide variety of flying conditions—from
+                    short regional hops to longer international services—enhancing both skill development
+                    and enjoyment.
+                </p>
+
+                <p>
+                    At the core of Air Oceanic is our commitment to community. We value teamwork,
+                    communication, and continuous learning, ensuring that every member feels supported
+                    throughout their journey. Through training opportunities, community events, and
+                    staff-led initiatives, we aim to create an engaging environment where pilots can
+                    progress, participate, and enjoy aviation together.
+                </p>
+
+                <p>
+                    Whether you're flying your first virtual sector or logging hundreds of hours in the
+                    logbook, Air Oceanic is your gateway to a realistic, professional, and rewarding
+                    virtual airline experience. Join us as we connect the skies of Australia, New Zealand,
+                    and the South Pacific—one flight at a time.
+                </p>
             </div>
         </div>
     </div>
 </section>
-<?php include 'includes/footer.php';
+<?php include 'includes/footer.php'; ?>
