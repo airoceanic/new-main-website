@@ -29,15 +29,7 @@ $MetaPageKeywords = "";
                 <div class="panel-body">
                     <div class="row">
                         <div class="col-md-12">
-                            Ut dignissim condimentum erat sit amet pellentesque. Aenean lacus mi, lobortis et sem
-                            interdum, ultrices tincidunt felis. Praesent lacinia cursus arcu, id ultricies leo viverra
-                            in. Phasellus rutrum nibh eu mollis dapibus. Aenean auctor quam lorem, a pulvinar odio
-                            finibus ut. Vivamus commodo pulvinar quam, vel porta lorem vestibulum ut. Proin arcu lorem,
-                            volutpat id justo et, venenatis ullamcorper tellus. Vivamus fringilla dolor quis urna
-                            tristique aliquet. Praesent a tortor dignissim, molestie eros non, porta enim. Nullam at
-                            mattis neque. Nunc ut tellus sit amet justo feugiat condimentum quis dapibus mauris.
-                            Praesent nulla metus, posuere nec mollis quis, semper eu odio. Proin eget nisi suscipit,
-                            dignissim risus et, tincidunt nulla.
+                            Air Oceanic actively celebrates and awards pilot achievements and milestones. Our awards program recognises dedication, skill, and contributions to the VATSIM community. We encourage all pilots to strive for excellence and look forward to celebrating your accomplishments with us.
                             <br /><br />
                             <?php if (!empty($awards)) { ?>
                             <table class="table table-striped">
