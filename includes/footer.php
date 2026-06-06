@@ -11,18 +11,20 @@
     <div class="container">
         <div class="row">
 
-            <!-- VATSIM Section -->
-            <div class="col-md-4 text-center">
-                <a href="https://www.vatsim.net" target="_blank">
+                        <!-- VATSIM Section -->
+                    <div class="col-md-4 text-center">
+
+                <a href="https://www.vatsim.net" target="_blank" style="display:block;">
                     <img src="<?php echo website_base_url; ?>assets/images/vatsim-logo.png"
-                         alt="VATSIM"
-                         style="max-width:250px;width:100%;height:auto;margin-bottom:15px;">
+                        alt="VATSIM"
+                        style="max-width:250px;height:auto;display:block;margin:0 auto 20px auto;">
                 </a>
 
-                <small>
+                <p style="margin:0 auto;max-width:350px;">
                     As a VATSIM Virtual Airline Partner, Air Oceanic mandates our pilots
                     to utilise the VATSIM network when flying to enhance immersion and realism.
-                </small>
+                </p>
+
             </div>
 
             <!-- Copyright -->
