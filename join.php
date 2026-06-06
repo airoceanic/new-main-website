@@ -272,7 +272,9 @@ foreach ($bases as $base) {
                     <div style="margin-top:10px;">
                         <strong>Air Oceanic reserves the right to deny or revoke membership at any time.</strong>
                     </div>
-
+                    <div style="margin-top:10px;">
+                        <strong>You must complete the First Officer Certification Course before gaining access to this system. You can begin this process at join.airoceanic.org.</strong>
+                    </div>
                     <p style="margin-top:10px;">
                         It may take up to 24 hours for your application to be approved if you are successful.
                     </p>
