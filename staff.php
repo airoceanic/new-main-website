@@ -24,13 +24,7 @@ $MetaPageKeywords = "";
             <div class="container">
                 <div class="jumbotron">
                     <h1 class="text-center">Meet the team</h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown
-                        printer took a galley of type and scrambled it to make a type specimen book. It has survived not
-                        only five centuries, but also the leap into electronic typesetting, remaining essentially
-                        unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem
-                        Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker
-                        including versions of Lorem Ipsum.</p>
+                    <p>Air Oceanic is proud to have a dedicated team of professionals who are passionate about providing the best possible service to our pilots. Consisting of 3 primary portfolios, respective Executives and Managers ensure seamless operations and exceptional support.</p>
                 </div>
                 <hr />
                 <div class="row people">
